@@ -1,0 +1,16 @@
+{
+  "name": "orgx-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shan-memery/orgx-experiments.git",
+  "author": "Khinshan Khan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^3.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
